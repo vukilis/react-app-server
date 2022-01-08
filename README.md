@@ -17,7 +17,7 @@ $ docker run -d --name [name] -p 3000:80 react-app-server:[tag]
 Open [localhost:3000](localhost:3000)
 
 ## Docker image 
-`Download and run basic react app`
+Download and run basic react app
 ```
 $ docker pull vukilis/react-app-server:1.0.0
 $ docker run -d --name [name] -p 3000:80 vukilis/react-app-server:1.0.0
